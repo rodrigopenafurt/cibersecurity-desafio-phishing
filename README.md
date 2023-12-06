@@ -1,5 +1,5 @@
 
-## Pishing para captura de senhas na hotmart 👾⛓⛓
+## Pishing para captura de senhas na Dio 👾⛓⛓
 
 
 ### 💻 Pré-requisitos
@@ -22,4 +22,4 @@
 - Método de ataque: ```Credential Harvester Attack Method ```
 - Método de ataque: ``` Site Cloner ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
-- URL para clone: https://sso.hotmart.com/login
+- URL para clone: https://auth.dio.me/
